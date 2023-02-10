@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 
-const googleApiKey = 'AIzaSyB0thUKlszT06ocIXadlKVb4_Tp1Z_W9L8';
+const googleApiKey = ''; // Api fora do app
 
 class LocationUtil {
   static String generateLocationPreviewImage({
